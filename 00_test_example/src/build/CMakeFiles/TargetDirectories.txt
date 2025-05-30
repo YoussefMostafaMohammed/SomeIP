@@ -1,0 +1,4 @@
+/home/youssef/myData/work/iti/embeddedLinux/SomeIP/00_test_example/src/build/CMakeFiles/client-example.dir
+/home/youssef/myData/work/iti/embeddedLinux/SomeIP/00_test_example/src/build/CMakeFiles/service-example.dir
+/home/youssef/myData/work/iti/embeddedLinux/SomeIP/00_test_example/src/build/CMakeFiles/edit_cache.dir
+/home/youssef/myData/work/iti/embeddedLinux/SomeIP/00_test_example/src/build/CMakeFiles/rebuild_cache.dir

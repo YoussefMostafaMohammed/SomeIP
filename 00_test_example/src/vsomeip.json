@@ -1,0 +1,23 @@
+{
+  "unicast": "127.0.0.1",
+  "logging": {
+    "level": "debug",
+    "console": "true"
+  },
+  "applications": [
+    {
+      "name": "service_app"
+    }
+  ],
+  "services": [
+    {
+      "service": "0x1234",
+      "instance": "0x5678",
+      "major": "1",
+      "minor": "1"
+    }
+  ],
+  "configuration": {
+    "application_name": "service_app"
+  }
+}
