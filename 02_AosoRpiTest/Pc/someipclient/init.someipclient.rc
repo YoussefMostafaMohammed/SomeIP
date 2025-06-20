@@ -1,0 +1,8 @@
+service ledService /vendor/bin/ledService
+    class late_start
+    user root
+    group root
+    seclabel u:object_r:ledService_exec:s0
+
+on boot
+    start ledService

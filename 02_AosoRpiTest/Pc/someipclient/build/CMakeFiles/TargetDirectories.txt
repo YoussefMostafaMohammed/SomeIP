@@ -1,0 +1,3 @@
+/home/youssef/someip/someipclient/build/CMakeFiles/hello_world_client.dir
+/home/youssef/someip/someipclient/build/CMakeFiles/edit_cache.dir
+/home/youssef/someip/someipclient/build/CMakeFiles/rebuild_cache.dir
