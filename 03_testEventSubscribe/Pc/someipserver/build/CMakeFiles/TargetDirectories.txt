@@ -1,0 +1,3 @@
+/home/youssef/myData/work/iti/embeddedLinux/SomeIP/03_testEventSubscribe/Pc/someipserver/build/CMakeFiles/hello_world_service.dir
+/home/youssef/myData/work/iti/embeddedLinux/SomeIP/03_testEventSubscribe/Pc/someipserver/build/CMakeFiles/edit_cache.dir
+/home/youssef/myData/work/iti/embeddedLinux/SomeIP/03_testEventSubscribe/Pc/someipserver/build/CMakeFiles/rebuild_cache.dir
